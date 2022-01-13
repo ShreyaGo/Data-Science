@@ -1,2 +1,4 @@
-# Data-Science
-This contains all my Data science projects be it ML or DL projects.
+# Spam Classifier
+
+This contains all my Natural Language processing projects.
+
